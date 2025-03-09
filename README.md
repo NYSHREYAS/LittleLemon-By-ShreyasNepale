@@ -5,5 +5,6 @@
 
 
 
+Welcome to the **Little Lemon Restaurant** project! A Django-powered web application serving up digital excellence for this neighborhood bistro
 
 ![Little Lemon Preview]()
