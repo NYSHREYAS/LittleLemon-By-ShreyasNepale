@@ -21,7 +21,7 @@ The About Us page provides insight into Little Lemon's history, mission, and val
 
 The menu page dynamically displays all available dishes in the restaurant. Customers can browse different categories of food and view detailed descriptions of each item.
 
-![Menu Page]()
+![Menu Page](https://github.com/NYSHREYAS/LittleLemon-By-ShreyasNepale/blob/2fda58329df3d5e53e860f826dcca2bbb4c8f350/Screenshot%202025-03-09%20173814.png)
 
 
 
