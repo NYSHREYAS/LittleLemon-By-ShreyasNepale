@@ -1,3 +1,4 @@
 # LittleLemon-By-ShreyasNepale
 
-! [image alt] (https://github.com/NYSHREYAS/LittleLemon-By-ShreyasNepale/blob/c586664d5fe180d2f4b97ae153d93b33b75f59fe/logo.png)
+
+![image alt] (http://127.0.0.1:8000/static/img/logo.png)
