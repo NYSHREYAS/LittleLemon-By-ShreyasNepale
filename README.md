@@ -51,8 +51,7 @@ The menu page dynamically displays all available dishes in the restaurant. Custo
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/littlelemon.git
-cd littlelemon
+https://github.com/NYSHREYAS/LittleLemon-By-ShreyasNepale.git
 ```
 
 ### 2️⃣ Create and Activate Virtual Environment
