@@ -7,4 +7,4 @@
 
 Welcome to the **Little Lemon Restaurant** project! A Django-powered web application serving up digital excellence for this neighborhood bistro
 
-![Little Lemon Preview]()
+![Little Lemon Preview](https://github.com/NYSHREYAS/LittleLemon-By-ShreyasNepale/blob/a3d04c30b14759ef422b02c177c559ea74a204ed/Screenshot%202025-03-09%20175433.png)
