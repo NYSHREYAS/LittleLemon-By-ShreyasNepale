@@ -29,12 +29,19 @@ The menu page dynamically displays all available dishes in the restaurant. Custo
 ## 🌟 Features
 
 ✅ **Dynamic Menu Page** - Displays the restaurant's menu items dynamically from the database.
+
 ✅ **Menu Item Page** - Provides details of individual menu items.
+
 ✅ **Home Page** - Welcomes visitors with an engaging restaurant introduction.
+
 ✅ **About Page** - Shares the story behind Little Lemon.
+
 ✅ **Booking Page** - Allows customers to book tables conveniently.
+
 ✅ **Admin Panel** - Manage menu items, bookings, and restaurant details.
+
 ✅ **Django Templates & Static Files** - Well-structured HTML, CSS, and JavaScript support.
+
 ✅ **Database Integration** - Uses Django models for data management.
 
 
